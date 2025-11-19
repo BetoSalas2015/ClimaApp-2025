@@ -1,0 +1,30 @@
+{
+  "name": "climaapp",
+  "version": "0.2.0",
+  "description": "Aplicación Clima en Nodejs",
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "homepage": "https://github.com/BetoSalas2015/ClimaApp-2025#readme",
+  "bugs": {
+    "url": "https://github.com/BetoSalas2015/ClimaApp-2025/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BetoSalas2015/ClimaApp-2025.git"
+  },
+  "license": "ISC",
+  "author": "Roberto Salazar Márquez",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "dependencies": {
+    "axios": "^1.13.0",
+    "colors": "^1.4.0",
+    "dotenv": "^17.2.3",
+    "inquirer": "^12.10.0"
+  }
+}

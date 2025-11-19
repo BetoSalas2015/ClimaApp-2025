@@ -1,0 +1,6 @@
+# Archivos a omitir en el repositorio
+.env
+test.js
+
+# Carpetas a omitir en el repositorio
+node_modules/
